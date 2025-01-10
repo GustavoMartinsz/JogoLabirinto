@@ -1,6 +1,6 @@
 #JOGOLABIRINTO
 
-Este jogo foi um desafio proposto pelo professor de Algoritmos e Lógica de Programação. O jogo é dividido em 3 partes principais:
+Este jogo foi um desafio proposto pelo professor de Algoritmos e Lógica de Programação em Linguagem C. O jogo é dividido em 3 partes principais:
 
  - main-c: Armazena todo o código e as estruturas lógicas do jogo.
  - fases: Contém os valores e desenhos de cada fase do jogo.
