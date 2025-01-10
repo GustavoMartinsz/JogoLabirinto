@@ -5,7 +5,7 @@ Este jogo foi um desafio proposto pelo professor de Algoritmos e Lógica de Prog
  - main-c: Armazena todo o código e as estruturas lógicas do jogo.
  - fases: Contém os valores e desenhos de cada fase do jogo.
  - bin: Salva os arquivos de dados e executa o arquivo main-c.
- - 
+   
 Para jogar, siga os seguintes passos:
 
  - Acesse o arquivo .zip e extraia os arquivos.
